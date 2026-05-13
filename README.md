@@ -6,3 +6,5 @@ This project examines the chemical properties of nicotine, its effects on the bo
 [Documentation][docs]
 
 [docs]: https://example.com/docs   
+
+[Google](https://www.google.com)
